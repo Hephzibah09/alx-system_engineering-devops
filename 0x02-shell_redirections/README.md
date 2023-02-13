@@ -12,3 +12,4 @@
 10-no_more_js - removes all the .js files present in the directory and subfolders
 9-duplicate_last_line - duplicates the last line of the iacta file and appends it to the end of the file
 11-directories - counts the numbers of directories
+12-newest_files - displays 10 newest files
