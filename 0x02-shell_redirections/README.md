@@ -22,3 +22,4 @@
 19-AZ - takes input from standard input and replaces "A" with "Z" and "c" with "e"
 20-hiago - delete C and c from any word in standatd input
 21-reverse - displays a line  in a file in reverse or input from standard input
+22-users_and_homes -  displays users and homes after sorting
