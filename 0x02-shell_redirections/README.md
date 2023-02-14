@@ -16,3 +16,5 @@
 13-unique - sorts a list of words and displays the unique ones
 14-findthatword - displays line containing the pattern 'root' in /etc/passwd
 15-countthatword - counts the number of times the pattern "bin" appears in /etc/passwd while also ignoring the case
+16-whatsnext - display all the lines containing "root" and 3 lines after them in /etc/passwor
+17-hidethisword - displays all the lines that do not contain the patter "bin" in /etc/passwd
