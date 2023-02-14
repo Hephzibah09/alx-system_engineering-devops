@@ -18,3 +18,5 @@
 15-countthatword - counts the number of times the pattern "bin" appears in /etc/passwd while also ignoring the case
 16-whatsnext - display all the lines containing "root" and 3 lines after them in /etc/passwor
 17-hidethisword - displays all the lines that do not contain the patter "bin" in /etc/passwd
+18-letteronly - displays lines that start with letters only
+19-AZ - takes input from standard input and replaces "A" with "Z" and "c" with "e"
