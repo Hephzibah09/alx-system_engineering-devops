@@ -20,3 +20,5 @@
 17-hidethisword - displays all the lines that do not contain the patter "bin" in /etc/passwd
 18-letteronly - displays lines that start with letters only
 19-AZ - takes input from standard input and replaces "A" with "Z" and "c" with "e"
+20-hiago - delete C and c from any word in standatd input
+21-reverse - displays a line  in a file in reverse or input from standard input
