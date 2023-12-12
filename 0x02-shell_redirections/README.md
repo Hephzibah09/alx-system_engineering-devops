@@ -9,3 +9,7 @@
 *2-hellofile*: this displays the conten of /etc/passwd.
 
 *3-twofiles*: this displays the content of /etc/passwd and /etc/hosts
+
+*4-lastlines*: this script displays the last 10 lines of the file /etc/passwd
+
+*5-firstlines*: this script displays the first 10 lines of the file /etc/passwd
