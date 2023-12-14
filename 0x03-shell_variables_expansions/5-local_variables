@@ -1,2 +1,2 @@
 #!/bin/bash
-(set | grep -vE '^(BASH_|EUID|GROUPS|HOSTNAME|PPID|UID)'; echo -e "\nEnvironment Variables:"; printenv; echo -e "\nFunctions:"; declare -F)
+(set | grep -vE '^(BASH_|EUID|GROUPS|HOSTNAME|PPID|UID)' echo -e "\nEnvironment Variables:"; printenv echo -e "\nFunctions:" declare -F)
